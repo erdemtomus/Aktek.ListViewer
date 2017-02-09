@@ -1,0 +1,5 @@
+C:\Projects\Aktek.Webparts\Aktek.WebpartsSLN\Aktek.ListViewer\bin\Debug\Aktek.List.dll
+C:\Projects\Aktek.Webparts\Aktek.WebpartsSLN\Aktek.ListViewer\bin\Debug\Aktek.List.pdb
+C:\Projects\Aktek.Webparts\Aktek.WebpartsSLN\Aktek.ListViewer\obj\Debug\Aktek.List.dll
+C:\Projects\Aktek.Webparts\Aktek.WebpartsSLN\Aktek.ListViewer\obj\Debug\Aktek.List.pdb
+C:\Projects\Aktek.Webparts\Aktek.WebpartsSLN\Aktek.ListViewer\obj\Debug\Aktek.ListViewer.csprojResolveAssemblyReference.cache

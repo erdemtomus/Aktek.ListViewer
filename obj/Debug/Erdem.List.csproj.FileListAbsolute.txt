@@ -1,0 +1,9 @@
+C:\Projects\Erdem.WebpartsSLN\Erdem.List\obj\Debug\Erdem.List.dll
+C:\Projects\Erdem.WebpartsSLN\Erdem.List\obj\Debug\Erdem.List.pdb
+C:\Projects\Erdem.WebpartsSLN\Erdem.List\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Erdem.WebpartsSLN\Erdem.List\bin\Debug\Erdem.List.dll
+C:\Projects\Erdem.WebpartsSLN\Erdem.List\bin\Debug\Erdem.List.pdb
+C:\Projects\Erdem.WebpartsSLN\Erdem.List\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Users\sinem.ok\Desktop\Erdem.WebpartsSLN\Erdem.List\obj\Debug\Erdem.List.csprojResolveAssemblyReference.cache
+C:\Users\sinem.ok\Desktop\Erdem.WebpartsSLN\Erdem.List\obj\Debug\Erdem.List.dll
+C:\Users\sinem.ok\Desktop\Erdem.WebpartsSLN\Erdem.List\obj\Debug\Erdem.List.pdb

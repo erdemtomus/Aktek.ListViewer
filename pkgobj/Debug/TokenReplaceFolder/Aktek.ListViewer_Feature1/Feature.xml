@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" AlwaysForceInstall="TRUE" Description="My Visual WebPart Feature" Id="796e2015-f19a-4433-b4df-ad0e846456ce" Scope="Site" Title="Aktek.ListViewer Feature1">
+  <ElementManifests>
+    <ElementManifest Location="ListWP\Elements.xml" />
+    <ElementFile Location="ListWP\ListWP.webpart" />
+  </ElementManifests>
+</Feature>

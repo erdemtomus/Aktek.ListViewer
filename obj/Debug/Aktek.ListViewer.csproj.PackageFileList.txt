@@ -1,0 +1,1 @@
+bin\Debug\Erdem.List.wsp

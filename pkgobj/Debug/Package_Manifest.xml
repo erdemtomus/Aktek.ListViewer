@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="e1b243f8-c40a-4053-95eb-321cdb02b69b" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Aktek.List.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Aktek.List, Version=1.0.0.0, Culture=neutral, PublicKeyToken=1b73be40bcfdbad2" Namespace="Aktek.List.ListWP" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\Aktek.List\ListWP\ListWPUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="Aktek.ListViewer_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

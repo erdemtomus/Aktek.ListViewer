@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="e1b243f8-c40a-4053-95eb-321cdb02b69b" solutionId="e1b243f8-c40a-4053-95eb-321cdb02b69b" resetWebServer="false" name="Erdem.List" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="796e2015-f19a-4433-b4df-ad0e846456ce" />
+  </features>
+</package>

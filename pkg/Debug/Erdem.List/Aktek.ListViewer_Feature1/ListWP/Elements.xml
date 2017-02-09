@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="ListWP" List="113" Url="_catalogs/wp">
+    <File Path="ListWP\ListWP.webpart" Url="ListWP.webpart" Type="GhostableInLibrary" >
+      <Property Name="Group" Value="Aktek" />
+    </File>
+  </Module>
+</Elements>
